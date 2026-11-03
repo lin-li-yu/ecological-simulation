@@ -1,0 +1,1 @@
+Timestep, Total Grass Available, Rabbit Count, Rabbit Energy Threshold, Rabbit Thirst Threshold, Rabbit Libido Threshold, Rabbit Restlessness, Rabbit Libido Rate, Rabbit Action Delay, Fox Count, Fox Energy Threshold, Fox Thirst Threshold, Fox Libido Threshold, Fox Restlessness, Fox Libido Rate, Fox Action Delay

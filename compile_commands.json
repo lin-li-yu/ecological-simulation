@@ -1,0 +1,82 @@
+[
+{
+  "directory": "/workspaces/agent-based-ecological-simulation-Sabrina9178/app",
+  "command": "/usr/bin/c++  -I/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/include -g -std=gnu++17 -o CMakeFiles/EcoSim.dir/EcoSim.cpp.o -c /workspaces/agent-based-ecological-simulation-Sabrina9178/app/EcoSim.cpp",
+  "file": "/workspaces/agent-based-ecological-simulation-Sabrina9178/app/EcoSim.cpp"
+},
+{
+  "directory": "/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src",
+  "command": "/usr/bin/c++  -I/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/include -g -std=gnu++17 -o CMakeFiles/SimulationLib.dir/grid.cpp.o -c /workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src/grid.cpp",
+  "file": "/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src/grid.cpp"
+},
+{
+  "directory": "/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src",
+  "command": "/usr/bin/c++  -I/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/include -g -std=gnu++17 -o CMakeFiles/SimulationLib.dir/animal.cpp.o -c /workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src/animal.cpp",
+  "file": "/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src/animal.cpp"
+},
+{
+  "directory": "/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src",
+  "command": "/usr/bin/c++  -I/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/include -g -std=gnu++17 -o CMakeFiles/SimulationLib.dir/animal_genes.cpp.o -c /workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src/animal_genes.cpp",
+  "file": "/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src/animal_genes.cpp"
+},
+{
+  "directory": "/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src",
+  "command": "/usr/bin/c++  -I/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/include -g -std=gnu++17 -o CMakeFiles/SimulationLib.dir/fox.cpp.o -c /workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src/fox.cpp",
+  "file": "/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src/fox.cpp"
+},
+{
+  "directory": "/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src",
+  "command": "/usr/bin/c++  -I/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/include -g -std=gnu++17 -o CMakeFiles/SimulationLib.dir/rabbit.cpp.o -c /workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src/rabbit.cpp",
+  "file": "/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src/rabbit.cpp"
+},
+{
+  "directory": "/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src",
+  "command": "/usr/bin/c++  -I/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/include -g -std=gnu++17 -o CMakeFiles/SimulationLib.dir/simulation.cpp.o -c /workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src/simulation.cpp",
+  "file": "/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src/simulation.cpp"
+},
+{
+  "directory": "/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src",
+  "command": "/usr/bin/c++  -I/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/include -g -std=gnu++17 -o CMakeFiles/SimulationLib.dir/utils.cpp.o -c /workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src/utils.cpp",
+  "file": "/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/src/utils.cpp"
+},
+{
+  "directory": "/workspaces/agent-based-ecological-simulation-Sabrina9178/test",
+  "command": "/usr/bin/c++  -I/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/include -g -std=gnu++17 -o CMakeFiles/TestSimulation.dir/TestSimulation.cpp.o -c /workspaces/agent-based-ecological-simulation-Sabrina9178/test/TestSimulation.cpp",
+  "file": "/workspaces/agent-based-ecological-simulation-Sabrina9178/test/TestSimulation.cpp"
+},
+{
+  "directory": "/workspaces/agent-based-ecological-simulation-Sabrina9178/test",
+  "command": "/usr/bin/c++  -I/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/include -g -std=gnu++17 -o CMakeFiles/TestSimulation.dir/unit_test/animal_genes_test.cpp.o -c /workspaces/agent-based-ecological-simulation-Sabrina9178/test/unit_test/animal_genes_test.cpp",
+  "file": "/workspaces/agent-based-ecological-simulation-Sabrina9178/test/unit_test/animal_genes_test.cpp"
+},
+{
+  "directory": "/workspaces/agent-based-ecological-simulation-Sabrina9178/test",
+  "command": "/usr/bin/c++  -I/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/include -g -std=gnu++17 -o CMakeFiles/TestSimulation.dir/unit_test/animal_test.cpp.o -c /workspaces/agent-based-ecological-simulation-Sabrina9178/test/unit_test/animal_test.cpp",
+  "file": "/workspaces/agent-based-ecological-simulation-Sabrina9178/test/unit_test/animal_test.cpp"
+},
+{
+  "directory": "/workspaces/agent-based-ecological-simulation-Sabrina9178/test",
+  "command": "/usr/bin/c++  -I/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/include -g -std=gnu++17 -o CMakeFiles/TestSimulation.dir/unit_test/fox_test.cpp.o -c /workspaces/agent-based-ecological-simulation-Sabrina9178/test/unit_test/fox_test.cpp",
+  "file": "/workspaces/agent-based-ecological-simulation-Sabrina9178/test/unit_test/fox_test.cpp"
+},
+{
+  "directory": "/workspaces/agent-based-ecological-simulation-Sabrina9178/test",
+  "command": "/usr/bin/c++  -I/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/include -g -std=gnu++17 -o CMakeFiles/TestSimulation.dir/unit_test/grid_test.cpp.o -c /workspaces/agent-based-ecological-simulation-Sabrina9178/test/unit_test/grid_test.cpp",
+  "file": "/workspaces/agent-based-ecological-simulation-Sabrina9178/test/unit_test/grid_test.cpp"
+},
+{
+  "directory": "/workspaces/agent-based-ecological-simulation-Sabrina9178/test",
+  "command": "/usr/bin/c++  -I/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/include -g -std=gnu++17 -o CMakeFiles/TestSimulation.dir/unit_test/rabbit_test.cpp.o -c /workspaces/agent-based-ecological-simulation-Sabrina9178/test/unit_test/rabbit_test.cpp",
+  "file": "/workspaces/agent-based-ecological-simulation-Sabrina9178/test/unit_test/rabbit_test.cpp"
+},
+{
+  "directory": "/workspaces/agent-based-ecological-simulation-Sabrina9178/test",
+  "command": "/usr/bin/c++  -I/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/include -g -std=gnu++17 -o CMakeFiles/TestSimulation.dir/unit_test/simulation_test.cpp.o -c /workspaces/agent-based-ecological-simulation-Sabrina9178/test/unit_test/simulation_test.cpp",
+  "file": "/workspaces/agent-based-ecological-simulation-Sabrina9178/test/unit_test/simulation_test.cpp"
+},
+{
+  "directory": "/workspaces/agent-based-ecological-simulation-Sabrina9178/test",
+  "command": "/usr/bin/c++  -I/workspaces/agent-based-ecological-simulation-Sabrina9178/simulation/include -g -std=gnu++17 -o CMakeFiles/TestSimulation.dir/unit_test/utils_test.cpp.o -c /workspaces/agent-based-ecological-simulation-Sabrina9178/test/unit_test/utils_test.cpp",
+  "file": "/workspaces/agent-based-ecological-simulation-Sabrina9178/test/unit_test/utils_test.cpp"
+}
+]

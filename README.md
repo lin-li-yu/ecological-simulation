@@ -1,4 +1,4 @@
-# Agent-Based Ecological Simulation (EcoSim)
+# Ecological Simulation
 
 ## Overview
 This repository contains a C++ library and command-line application for modelling an agent-based ecological simulation. The project simulates the complex interactions between individual animals (predators and prey) within a configurable, two-dimensional gridded environment. 
